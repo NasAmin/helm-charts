@@ -10,6 +10,10 @@ Entries should be ordered as follows:
 
 Entries should include a reference to the Pull Request that introduced the change.
 
+## 1.5.4
+
+* [BUGFIX] Ensure all PodSpecs have configurable initContainers. #708
+
 ## 1.5.3
 
 * [BUGFIX] This change does not affect single replica deployments of the
